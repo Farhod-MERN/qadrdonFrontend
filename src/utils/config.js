@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://qadrdon-uz.onrender.com'
+export const BASE_URL = 'https://qadrdonuz-kx3qdpqa0-farhod-mern.vercel.app'
