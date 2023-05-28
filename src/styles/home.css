@@ -83,3 +83,9 @@
 .sortItem .leftHeader{
     border-radius:16px 16px 0 0;
 }
+.leftSideBarList{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    margin: 7px 0;
+}

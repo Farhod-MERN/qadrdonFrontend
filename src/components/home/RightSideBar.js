@@ -28,7 +28,7 @@ const RightSideBar = () => {
             {
                 suggestions.loading
                 ? <img src={LoadIcon} alt="loading" className="d-block mx-auto my-4" />
-                : <div className="suggestions">
+                : <div className="suggestions" style={{color:"black"}}>
                     {
                         suggestions.users.map(user => (
                             <UserCard key={user._id} user={user} >
